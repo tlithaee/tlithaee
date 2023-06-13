@@ -1,8 +1,6 @@
 <h1 align="center">Hello! I'm Syarifah Talitha Erfany</h1>
 <h3 align="center">A dreamer who like the combination between design and technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tlithaee&label=Profile%20views&color=0e75b6&style=flat" alt="tlithaee" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/syarifah-talitha-176380217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syarifah-talitha-176380217" height="30" width="40" /></a>
