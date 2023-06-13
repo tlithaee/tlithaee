@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Syarifah Talitha Erfany</h1>
-<h3 align="center">A dreamer who like the combination between design and technology</h3>
+<h3 align="center">A dreamer who likes the combination between design and technology</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
