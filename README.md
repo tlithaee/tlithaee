@@ -1,5 +1,10 @@
-<h1 align="center">Hello! I'm Syarifah Talitha Erfany</h1>
+<h1 align="center">Hello! I'm Lita 💫</h1>
 <h3 align="center">A dreamer who likes the combination between design and technology</h3>
+
+<h5 align="left">🎈 UI/UX</h5>
+<h5 align="left">🎈 Web development</h5>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
