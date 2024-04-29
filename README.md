@@ -3,8 +3,7 @@
 
 <h5 align="left">🎈 UI/UX</h5>
 <h5 align="left">🎈 Web development</h5>
-
-
+<h5 align="left">🎈 Android development</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
